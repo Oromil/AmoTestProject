@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AmoTestProject</string>
+    <string name="activity_deals_title">Сделки</string>
+
+    <string name="base_URL">https:new5978c005920b8.amocrm.ru</string>
+
+    <string name="hint_login">Введите e-mail</string>
+    <string name="hint_password">Введите ключ API</string>
+    <string name="hint_domain">Введите домен компании</string>
+    <string name="ligin_button_text">Войти</string>
+
+    <string name="network_error">Отсутствует соединение с сетью</string>
+    <string name="input_error">Введены неверные данные</string>
+    <string name="some_error">Неизвестная ошибка</string>
+    <string name="error_403">Доступ к данному аккаунту запрещён</string>
+
+    <string name="text_deal_name">Название сделки:</string>
+    <string name="text_deal_price">Цена сделки:</string>
+    <string name="text_deal_date">Дата создания сделки:</string>
+</resources>
